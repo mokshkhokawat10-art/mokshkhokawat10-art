@@ -1,10 +1,5 @@
-# 💻 LeetCode Statistics
+<h2>LeetCode Activity</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mOKSH_900?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <b>LeetCode Profile:</b>
-  <a href="https://leetcode.com/u/mOKSH_900/">mOKSH_900</a>
+  <img src="https://leetcard.jacoblin.cool/mOKSH_900?ext=heatmap&theme=dark&cache=0" width="600" />
 </p>

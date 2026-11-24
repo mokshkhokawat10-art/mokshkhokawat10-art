@@ -1,3 +1,3 @@
-## LeetCode Statistics
+## LeetCode Activity 🔥
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mOKSH_900?theme=dark&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/mOKSH_900?theme=dark&ext=heatmap&cache=0)
